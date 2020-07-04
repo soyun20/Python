@@ -17,5 +17,6 @@ while num!="done":
     except:
         if(num!="done"):
         	print("Invalid input")
+
 print("Maximum is", largest)
 print("Minimum is", smallest)

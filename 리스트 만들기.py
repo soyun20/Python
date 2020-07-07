@@ -1,0 +1,8 @@
+a = list()
+a.append('Joseph')
+a.append('Glenn')
+a.append('Sally')
+print(a)
+a.sort()
+print(a)
+print('Glenn' in a)

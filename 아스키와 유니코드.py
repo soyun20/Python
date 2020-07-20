@@ -1,0 +1,9 @@
+#ASCII
+print(ord('H'))
+print(ord('e'))
+print(ord('\n'))
+#유니코드
+x='최소윤'
+print(type(x))
+x=u'최소윤'
+print(type(x))
